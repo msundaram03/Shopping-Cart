@@ -1,0 +1,94 @@
+.bodypage{
+  padding: 2% 4%;
+}
+
+.heading{
+  font-family: 'Poppins', sans-serif;
+}
+
+.sheading{
+  font-family: 'Montserrat', sans-serif;
+  color: grey;
+  font-size: 0.9rem;
+}
+
+.btx{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.btx1{
+  font-size: 1.5rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight:bold;
+}
+.btx12{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+}
+
+.change{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.btx3{
+  font-size: 2rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.debit{
+  font-size: 1.3rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+}
+
+.cardno{
+  font-size: 0.9rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.datec, .datecn{
+  font-size: 0.9rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+}
+
+.datecn1{
+  font-size: 1.1rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+}
+
+.datecn12{
+  font-size: 0.8rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+}
+
+.recbox4{
+  padding-right: 2%;
+}
+
+.yd{
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.2rem;
+}
+
+.yd2{
+  font-family: 'Poppins', sans-serif;
+  font-size: 0.9rem;
+}
+
+.yd3{
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.2rem;
+}
+
+.yd4{
+  font-family: 'Poppins', sans-serif;
+  font-size: 1rem;
+}
+
+.yd5{
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.5rem;
+}
