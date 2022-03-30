@@ -1,5 +1,5 @@
 # Shopping-Cart
-This is a cloning of a frontend design from dribble (https://dribbble.com/shots/15943037-Web-UI) .I made this as an assisgnment for recruitment in Webarchclub.
+This is a cloning of a frontend design from dribble (https://dribbble.com/shots/15943037-Web-UI) .I made this as an assignment for recruitment in Webarchclub.
 
 link=> https://msundaram03.github.io/Shopping-Cart/
 
